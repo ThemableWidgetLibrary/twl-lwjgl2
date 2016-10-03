@@ -2,6 +2,10 @@
 
 This is an extension for the TWL library which adds LWJGL2 rendering and input support.
 
+## Download
+
+You can download the latest build here [TWL-LWJGL2.jar](build/TWL-LWJGL2.jar)
+
 ## What is TWL?
 
 TWL is a graphical user interface library for Java built on top of OpenGL. It provides a rich set of standard widgets including labels, edit fields, tables, popups, tooltips, frames and a lot more. Different layout container are available to create even the most advanced user interfaces.
